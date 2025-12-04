@@ -1,4 +1,4 @@
-#  Ejercicio CRUD Básico con MongoDB --- *Books Edition*
+#  Ejercicio CRUD Básico con MongoDB
 
 ##  Objetivo
 
