@@ -1,10 +1,10 @@
-# 📚 Ejercicio CRUD Básico con MongoDB --- *Books Edition*
+#  Ejercicio CRUD Básico con MongoDB --- *Books Edition*
 
-## 🎯 Objetivo
+##  Objetivo
 
 Practicar las operaciones CRUD usando una colección de libros.
 
-## 📂 Estructura del Documento
+##  Estructura del Documento
 
 -   **title** (string)
 -   **author** (string)
@@ -12,13 +12,13 @@ Practicar las operaciones CRUD usando una colección de libros.
 -   **year** (number)
 -   **stock** (number)
 
-## 🗄️ Crear Base de Datos
+##  Crear Base de Datos
 
 ``` js
 use library_db;
 ```
 
-## 📝 Consigna
+##  Consigna
 
 1.  Insertar 5 libros.
 2.  Consultar por género y rango de años.
@@ -26,7 +26,7 @@ use library_db;
 4.  Eliminar un libro.
 5.  Entregar comandos en un archivo .md.
 
-## 🛠️ Comandos
+##  Comandos para resolver la consigna
 
 ### Insertar libros
 
