@@ -23,7 +23,9 @@ COMANDOS NECESARIOS PARA LA REALIZACIÓN DE LA CONSIGNA:
 
 1 - use library_db
 
-2 - db.books.insertMany([{"title": "Cien años de soledad",
+2 - db.books.insertMany([
+  
+  {"title": "Cien años de soledad",
     "author": "Gabriel García Márquez",
     "genre": "Realismo mágico",
     "year": 1967,
